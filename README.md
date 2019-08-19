@@ -1,2 +1,2 @@
-# auto_things
+# ApnaApni
 Some automated scripts

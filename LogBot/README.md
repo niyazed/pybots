@@ -1,6 +1,9 @@
 Auto login Bot from text file infomation
 ----------------------------------------
 
-Dependencies Installation
+#### Dependencies Installation:
+```
 - pip install selenium
 - Download the geckodriver and add the path
+- Download and Install Mozilla Firefox
+```

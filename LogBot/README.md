@@ -7,3 +7,4 @@ Auto login Bot from text file infomation
 - Download the geckodriver and add the path
 - Download and Install Mozilla Firefox
 ```
+> For windows download the geckodriver from here - https://github.com/mozilla/geckodriver/releases

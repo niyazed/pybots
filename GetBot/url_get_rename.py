@@ -1,7 +1,7 @@
 from urllib.request import urlretrieve
 
 
-with open('cow_imageLink.txt') as f:
+with open('imageLinks.txt') as f:
     for i, line in enumerate(f):
         line = line.strip()
         # print(line)

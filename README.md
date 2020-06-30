@@ -1,2 +1,2 @@
-# ApnaApni
+# PyBots 🤖
 Some automated scripts
